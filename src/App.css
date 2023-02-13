@@ -20,7 +20,6 @@ html, body {
 
 .contenedor-contador {
   height: 550px;
-  min-width: 600px;
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
